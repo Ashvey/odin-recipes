@@ -1,3 +1,3 @@
-# Ash's First Repo!
+# Ash's First Repository!
 Hello!
 First step on being professional! >:)
